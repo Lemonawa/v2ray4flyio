@@ -10,7 +10,7 @@
 * APP_NAME - 应用名称，注意此名称全局唯一
 * UUID - 供用户连接的 UUID，可通过 <http://www.uuid.online/> 或 <https://www.uuidgenerator.net/> 生成
 3. 推送代码即可触发部署，另外已设置每月一号四点（UTC）自动部署
-
+.
 ## 客户端连接
 * 协议（protocol） - vmess
 * 地址（address） - [APP_NAME].fly.dev
